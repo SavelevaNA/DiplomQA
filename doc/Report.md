@@ -11,28 +11,15 @@
 ### При подключении к БД MySQL
 > * Успешных кейсов 53.84% (14 кейсов)
 > * Неуспешных кейсов 46.16% (12 кейсов)
-<details>
-   <summary>Report</summary>
 
-![ScreenShot](pic/mysql.png)
-  
-![ScreenShot](pic/mysql1.png)
-  
-![ScreenShot](pic/mysql2.png)
-</details>
 
 ### При подключении к БД PostgreSQL
 > * Успешных кейсов 53.84% (14 кейсов)
 > * Неуспешных кейсов 46.16% (12 кейсов)
-<details>
-   <summary>Report</summary>
 
-![ScreenShot](pic/PostgreSQL.png)
 
-![ScreenShot](pic/PostgreSQL1.png)
-
-![ScreenShot](pic/PostgreSQL2.png)
-</details>
+![behaviors.png](https://ltdfoto.ru/images/2023/05/18/behaviors.png)
+![PostgreSQL2.png](https://ltdfoto.ru/images/2023/05/18/PostgreSQL2.png)
 
 ## Общие рекомендации
 1. Исправить орфографические ошибки 
