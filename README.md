@@ -59,4 +59,4 @@
 > * `docker-compose down`
 
 
-#### Документация по ссылке (https://github.com/SavelevaNA/DiplomQA/tree/main/doc).
+#### Документация [здесь](https://github.com/SavelevaNA/DiplomQA/tree/main/doc).
