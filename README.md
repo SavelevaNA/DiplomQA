@@ -1,12 +1,15 @@
 [![Build status](https://ci.appveyor.com/api/projects/status/15ksx2qedmgq93fy/branch/main?svg=true)](https://ci.appveyor.com/project/SavelevaNA/diplomqa/branch/main)
+# Дипломный проект профессии «Тестировщик»
+
+Дипломный проект представляет собой автоматизацию тестирования комплексного сервиса, взаимодействующего с СУБД и API
+Банка.
 
 ## Запуск приложения
 
 Перед запуском необходимо выполнить следующие предусловия. Если у вас уже есть необходимое ПО, то понадобится только п.1 и запуск Docker.
 
 *Предусловия:*
-1. Необходимо склонировать репозиторий (https://github.com/SavelevaNA/DiplomQA). Или воспользоваться VCS Git, встроенной в
-   IntelliJ IDEA.
+1. Необходимо склонировать репозиторий (https://github.com/SavelevaNA/DiplomQA). 
 2. Установить и запустить Docker Desktop. Это можно сделать [здесь](https://docs.docker.com/get-docker/) в зависимости от операционной системы. 
 3. Открыть проект в IntelliJ IDEA
 
@@ -54,3 +57,6 @@
 1. Для остановки работы контейнеров "Docker-Compose", необходимо ввести в терминал следующую команду: 
 
 > * `docker-compose down`
+
+
+#### Документация по ссылке (https://github.com/SavelevaNA/DiplomQA/tree/main/doc).
