@@ -21,11 +21,11 @@
 <details>
    <summary>Report</summary>
 
-![ScreenShot](pic/1.png)
+![ScreenShot](https://github.com/SavelevaNA/DiplomQA/blob/main/doc/1.png)
 
-![ScreenShot](pic/2.png)
+![ScreenShot](https://github.com/SavelevaNA/DiplomQA/blob/main/doc/2.png)
 
-![ScreenShot](pic/3.png)
+![ScreenShot](https://github.com/SavelevaNA/DiplomQA/blob/main/doc/3.png)
 </details>
 
 ## Общие рекомендации
