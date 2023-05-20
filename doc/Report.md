@@ -18,8 +18,15 @@
 > * Неуспешных кейсов 46.16% (12 кейсов)
 
 
-![behaviors.png](https://ltdfoto.ru/images/2023/05/18/behaviors.png)
-![PostgreSQL2.png](https://ltdfoto.ru/images/2023/05/18/PostgreSQL2.png)
+<details>
+   <summary>Report</summary>
+
+![ScreenShot](pic/1.png)
+
+![ScreenShot](pic/2.png)
+
+![ScreenShot](pic/3.png)
+</details>
 
 ## Общие рекомендации
 1. Исправить орфографические ошибки 
